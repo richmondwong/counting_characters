@@ -10,6 +10,5 @@ function countLetters(str) {
   }
 console.log(output);
 }
+
 countLetters("lighthouse in the house");
-
-
